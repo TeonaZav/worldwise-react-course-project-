@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -37,78 +25,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Moissac",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-08-21T18:59:55.836Z",
-      "notes": "",
-      "position": {
-        "lat": "44.11849132108594",
-        "lng": "1.0339548534369714"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Lapio",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2023-08-21T19:00:44.508Z",
-      "notes": "",
-      "position": {
-        "lat": "40.97455522425999",
-        "lng": "14.930032755809156"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Tbilisi",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2023-08-21T19:08:24.806Z",
-      "notes": "",
-      "position": {
-        "lat": "41.68810465599847",
-        "lng": "44.80209636491975"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Zardob",
-      "country": "Azerbaijan",
-      "emoji": "🇦🇿",
-      "date": "2023-08-21T19:10:35.183Z",
-      "notes": "",
-      "position": {
-        "lat": "40.27598100661273",
-        "lng": "47.5707111382748"
-      },
-      "id": 98443204
-    },
-    {
-      "cityName": "Adrar",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-08-21T19:12:10.397Z",
-      "notes": "",
-      "position": {
-        "lat": "27.829628351137796",
-        "lng": "-0.17323107933618023"
-      },
-      "id": 98443205
-    },
-    {
-      "cityName": "Ordino",
-      "country": "Andorra",
-      "emoji": "🇦🇩",
-      "date": "2023-08-21T19:13:42.754Z",
-      "notes": "",
-      "position": {
-        "lat": "42.61618850604608",
-        "lng": "1.5928062752568775"
-      },
-      "id": 98443206
-    },
-    {
       "cityName": "Beijing",
       "country": "China",
       "emoji": "🇨🇳",
@@ -119,6 +35,30 @@
         "lng": "116.62689801148652"
       },
       "id": 98443207
+    },
+    {
+      "cityName": "Cheongju-si",
+      "country": "Korea (the Republic of)",
+      "emoji": "🇰🇷",
+      "date": "2023-08-21T21:20:29.027Z",
+      "notes": "",
+      "position": {
+        "lat": "36.56023369849645",
+        "lng": "127.44648405849578"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2023-08-21T21:21:40.287Z",
+      "notes": "",
+      "position": {
+        "lat": "53.30387437058316",
+        "lng": "-6.196225621500627"
+      },
+      "id": 98443209
     }
   ]
 }
