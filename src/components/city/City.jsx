@@ -2,9 +2,9 @@ import { useEffect } from "react";
 import { useParams } from "react-router-dom";
 import styles from "./City.module.css";
 import { flagemojiToPNG, formatDate } from "../../utils/HelperFunctions";
-import { useCities } from "../../contexts/CitiesContext";
 import Spinner from "../spinner/Spinner";
 import ButtonBack from "../buttons/ButtonBack";
+import { useCities } from "../../contexts/CitiesContext";
 
 function City() {
   const { id } = useParams();

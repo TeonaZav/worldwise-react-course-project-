@@ -4,6 +4,7 @@ import PageNav from "../../components/pagenav/PageNav";
 import Button from "../../components/buttons/Button";
 import { useAuth } from "../../contexts/FakeAuthContext";
 import { useNavigate } from "react-router-dom";
+
 function Login() {
   // PRE-FILL FOR DEV PURPOSES
   const [email, setEmail] = useState("jack@example.com");

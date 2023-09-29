@@ -1,5 +1,4 @@
-import { Link, useNavigate } from "react-router-dom";
-
+import { Link } from "react-router-dom";
 import styles from "./CityItem.module.css";
 import { flagemojiToPNG, formatDate } from "../../utils/HelperFunctions";
 import { useCities } from "../../contexts/CitiesContext";

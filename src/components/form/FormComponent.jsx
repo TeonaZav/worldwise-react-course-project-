@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect } from "react";
 import { countryCodeEmoji } from "country-code-emoji";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
